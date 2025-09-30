@@ -1,6 +1,7 @@
 # QA Signup Automation Script
 
 ## OverView
+
 This project automates the signup process of the Authorized Partner Website
 .
 The automation covers the entire signup flow without manual intervention, including:
@@ -36,16 +37,19 @@ The automation covers the entire signup flow without manual intervention, includ
 
 
 ## Setup Instructions
+
 1. Clone the repository:
     ``` bash
     git clone https://github.com/nimesh631/QA_SignUp_Task.git
     cd QA_SignUp_Task
 
 2. Install dependencies:
+
     npm install selenium-webdriver axios
 
 
 3. Run the Script
+
     node signup_automation_script.js
 
 
@@ -67,6 +71,7 @@ Driver: ChromeDriver v140
 
 
 ## Test Data
+
 - Email: Generated dynamically via Mail.tm API
 - Phone Number: Randomly generated starting with 98
 - Password: Test@1234
@@ -77,7 +82,9 @@ Driver: ChromeDriver v140
 
 
 ### Test Report
+
 [Test Report](./test_report.pdf)
 
 ### Demo Video
+
 [Demo Video](./demo_video.mp4)
