@@ -38,7 +38,7 @@ The automation covers the entire signup flow without manual intervention, includ
 ## Setup Instructions
 1. Clone the repository:
     ``` bash
-    git clone 
+    git clone https://github.com/nimesh631/QA_SignUp_Task.git
     cd QA_SignUp_Task
 
 2. Install dependencies:
